@@ -1,0 +1,211 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/SciChart_Android_v2.2.1.2391_SDK/Examples/app/src/main/AndroidManifest.xml:21:1-78:12
+INJECTED from /Users/catherine.brainwilliam/AndroidOBTExample/SciChart_Android_v2.2.1.2391_SDK/Examples/app/src/main/AndroidManifest.xml:21:1-78:12
+INJECTED from /Users/catherine.brainwilliam/AndroidOBTExample/SciChart_Android_v2.2.1.2391_SDK/Examples/app/src/main/AndroidManifest.xml:21:1-78:12
+INJECTED from /Users/catherine.brainwilliam/AndroidOBTExample/SciChart_Android_v2.2.1.2391_SDK/Examples/app/src/main/AndroidManifest.xml:21:1-78:12
+MERGED from [com.scichart:charting:release] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/charting-release.aar/d0d34aaf2a4c3c5b092e070f6c99c6f3/AndroidManifest.xml:20:1-28:12
+MERGED from [com.scichart:core:release] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/core-release.aar/2c59eda961c94abe362db494c471f3ff/AndroidManifest.xml:20:1-29:12
+MERGED from [com.scichart:drawing:release] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/drawing-release.aar/22a9df4af15a0aab9123a299436aa62e/AndroidManifest.xml:20:1-29:12
+MERGED from [com.scichart:data:release] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/data-release.aar/f31a39f6c843fabeeecf2b2d55af3c5b/AndroidManifest.xml:20:1-29:12
+MERGED from [com.scichart:extensions:release] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/extensions-release.aar/94d4ba8d05930c6d42e595a07ab8f51b/AndroidManifest.xml:20:1-29:12
+MERGED from [com.android.support:design:27.1.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/e0d9b068e9982da57804f427ef069d84/AndroidManifest.xml:17:1-22:12
+MERGED from [com.daasuu:EasingInterpolator:1.0.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/EasingInterpolator-1.0.0.aar/7e374fca760ead7db357339f398dc3f1/AndroidManifest.xml:2:1-17:12
+MERGED from [com.android.support:appcompat-v7:27.1.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/df1902e82ac8158603bd66d7ac137f3e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.0.aar/7f44d3e027f6e89242e47bc2d24beedf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.jakewharton:butterknife:8.8.1] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/14c324bc4b7fe7b498a3be211bbf2a30/AndroidManifest.xml:2:1-7:12
+MERGED from [com.android.support:support-fragment:27.1.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/10cb84a4d58369dc80dd5a6036128c61/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.0.aar/4c0de6aadf33fb8dc7fb1b528c4034cd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/d683c32fb305eb6ce28d8e18ac618850/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/4df4a3099799db523b2d531ceb7e1669/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/8c488687f2cabee2d6813a93dd4c7935/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/29e1fb7f20f196fb6b310259731a6692/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/transition-27.1.0.aar/88d713acb3e422f193dd12dbc1d3d532/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/284db8e8ab395d473b4c88622b800831/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/59a1a64dc003b26ee7f00b03dbb2e3ad/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/5c4012b7c5fab1d1f8e87619caabd3a6/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/19b9b151ad69b3056dd655631768fca7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/1e93c7312dbeae2140507a4267b1b694/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/e865e5de6edf14d752ce8a208cbbbc9a/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/catherine.brainwilliam/AndroidOBTExample/SciChart_Android_v2.2.1.2391_SDK/Examples/app/src/main/AndroidManifest.xml:21:1-78:12
+INJECTED from /Users/catherine.brainwilliam/AndroidOBTExample/SciChart_Android_v2.2.1.2391_SDK/Examples/app/src/main/AndroidManifest.xml:21:1-78:12
+INJECTED from /Users/catherine.brainwilliam/AndroidOBTExample/SciChart_Android_v2.2.1.2391_SDK/Examples/app/src/main/AndroidManifest.xml:21:1-78:12
+	package
+		ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/SciChart_Android_v2.2.1.2391_SDK/Examples/app/src/main/AndroidManifest.xml:23:5-36
+		INJECTED from /Users/catherine.brainwilliam/AndroidOBTExample/SciChart_Android_v2.2.1.2391_SDK/Examples/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/catherine.brainwilliam/AndroidOBTExample/SciChart_Android_v2.2.1.2391_SDK/Examples/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/catherine.brainwilliam/AndroidOBTExample/SciChart_Android_v2.2.1.2391_SDK/Examples/app/src/main/AndroidManifest.xml
+		ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/SciChart_Android_v2.2.1.2391_SDK/Examples/app/src/main/AndroidManifest.xml:21:1-78:12
+		INJECTED from /Users/catherine.brainwilliam/AndroidOBTExample/SciChart_Android_v2.2.1.2391_SDK/Examples/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/SciChart_Android_v2.2.1.2391_SDK/Examples/app/src/main/AndroidManifest.xml:22:5-51
+	android:versionCode
+		INJECTED from /Users/catherine.brainwilliam/AndroidOBTExample/SciChart_Android_v2.2.1.2391_SDK/Examples/app/src/main/AndroidManifest.xml
+		ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/SciChart_Android_v2.2.1.2391_SDK/Examples/app/src/main/AndroidManifest.xml:21:1-78:12
+		INJECTED from /Users/catherine.brainwilliam/AndroidOBTExample/SciChart_Android_v2.2.1.2391_SDK/Examples/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/SciChart_Android_v2.2.1.2391_SDK/Examples/app/src/main/AndroidManifest.xml:21:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/SciChart_Android_v2.2.1.2391_SDK/Examples/app/src/main/AndroidManifest.xml:25:5-67
+	android:name
+		ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/SciChart_Android_v2.2.1.2391_SDK/Examples/app/src/main/AndroidManifest.xml:25:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/SciChart_Android_v2.2.1.2391_SDK/Examples/app/src/main/AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/SciChart_Android_v2.2.1.2391_SDK/Examples/app/src/main/AndroidManifest.xml:26:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/SciChart_Android_v2.2.1.2391_SDK/Examples/app/src/main/AndroidManifest.xml:27:5-81
+	android:name
+		ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/SciChart_Android_v2.2.1.2391_SDK/Examples/app/src/main/AndroidManifest.xml:27:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/SciChart_Android_v2.2.1.2391_SDK/Examples/app/src/main/AndroidManifest.xml:28:5-80
+	android:name
+		ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/SciChart_Android_v2.2.1.2391_SDK/Examples/app/src/main/AndroidManifest.xml:28:22-77
+uses-permission#android.permission.WRITE_INTERNAL_STORAGE
+ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/SciChart_Android_v2.2.1.2391_SDK/Examples/app/src/main/AndroidManifest.xml:29:5-81
+	android:name
+		ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/SciChart_Android_v2.2.1.2391_SDK/Examples/app/src/main/AndroidManifest.xml:29:22-78
+uses-permission#android.permission.READ_INTERNAL_STORAGE
+ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/SciChart_Android_v2.2.1.2391_SDK/Examples/app/src/main/AndroidManifest.xml:30:5-80
+	android:name
+		ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/SciChart_Android_v2.2.1.2391_SDK/Examples/app/src/main/AndroidManifest.xml:30:22-77
+application
+ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/SciChart_Android_v2.2.1.2391_SDK/Examples/app/src/main/AndroidManifest.xml:32:5-77:19
+MERGED from [com.daasuu:EasingInterpolator:1.0.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/EasingInterpolator-1.0.0.aar/7e374fca760ead7db357339f398dc3f1/AndroidManifest.xml:11:5-15:19
+MERGED from [com.daasuu:EasingInterpolator:1.0.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/EasingInterpolator-1.0.0.aar/7e374fca760ead7db357339f398dc3f1/AndroidManifest.xml:11:5-15:19
+	android:supportsRtl
+		ADDED from [com.daasuu:EasingInterpolator:1.0.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/EasingInterpolator-1.0.0.aar/7e374fca760ead7db357339f398dc3f1/AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/SciChart_Android_v2.2.1.2391_SDK/Examples/app/src/main/AndroidManifest.xml:36:9-41
+	android:largeHeap
+		ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/SciChart_Android_v2.2.1.2391_SDK/Examples/app/src/main/AndroidManifest.xml:37:9-33
+	android:icon
+		ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/SciChart_Android_v2.2.1.2391_SDK/Examples/app/src/main/AndroidManifest.xml:35:9-38
+	android:allowBackup
+		ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/SciChart_Android_v2.2.1.2391_SDK/Examples/app/src/main/AndroidManifest.xml:34:9-35
+		REJECTED from [com.daasuu:EasingInterpolator:1.0.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/EasingInterpolator-1.0.0.aar/7e374fca760ead7db357339f398dc3f1/AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/SciChart_Android_v2.2.1.2391_SDK/Examples/app/src/main/AndroidManifest.xml:38:9-40
+	tools:replace
+		ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/SciChart_Android_v2.2.1.2391_SDK/Examples/app/src/main/AndroidManifest.xml:39:9-44
+	android:name
+		ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/SciChart_Android_v2.2.1.2391_SDK/Examples/app/src/main/AndroidManifest.xml:33:9-36
+activity#com.scichart.examples.HomeActivity
+ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/SciChart_Android_v2.2.1.2391_SDK/Examples/app/src/main/AndroidManifest.xml:41:9-48:20
+	android:label
+		ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/SciChart_Android_v2.2.1.2391_SDK/Examples/app/src/main/AndroidManifest.xml:43:13-45
+	android:name
+		ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/SciChart_Android_v2.2.1.2391_SDK/Examples/app/src/main/AndroidManifest.xml:42:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/SciChart_Android_v2.2.1.2391_SDK/Examples/app/src/main/AndroidManifest.xml:44:13-47:29
+action#android.intent.action.MAIN
+ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/SciChart_Android_v2.2.1.2391_SDK/Examples/app/src/main/AndroidManifest.xml:45:17-69
+	android:name
+		ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/SciChart_Android_v2.2.1.2391_SDK/Examples/app/src/main/AndroidManifest.xml:45:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/SciChart_Android_v2.2.1.2391_SDK/Examples/app/src/main/AndroidManifest.xml:46:17-77
+	android:name
+		ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/SciChart_Android_v2.2.1.2391_SDK/Examples/app/src/main/AndroidManifest.xml:46:27-74
+activity#com.scichart.examples.ExampleActivity
+ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/SciChart_Android_v2.2.1.2391_SDK/Examples/app/src/main/AndroidManifest.xml:50:9-57:20
+	android:parentActivityName
+		ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/SciChart_Android_v2.2.1.2391_SDK/Examples/app/src/main/AndroidManifest.xml:53:13-55
+	android:label
+		ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/SciChart_Android_v2.2.1.2391_SDK/Examples/app/src/main/AndroidManifest.xml:52:13-59
+	android:name
+		ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/SciChart_Android_v2.2.1.2391_SDK/Examples/app/src/main/AndroidManifest.xml:51:13-44
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/SciChart_Android_v2.2.1.2391_SDK/Examples/app/src/main/AndroidManifest.xml:54:13-56:49
+	android:value
+		ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/SciChart_Android_v2.2.1.2391_SDK/Examples/app/src/main/AndroidManifest.xml:56:17-46
+	android:name
+		ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/SciChart_Android_v2.2.1.2391_SDK/Examples/app/src/main/AndroidManifest.xml:55:17-63
+activity#com.scichart.examples.ExceptionActivity
+ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/SciChart_Android_v2.2.1.2391_SDK/Examples/app/src/main/AndroidManifest.xml:59:9-61:51
+	android:theme
+		ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/SciChart_Android_v2.2.1.2391_SDK/Examples/app/src/main/AndroidManifest.xml:61:13-48
+	android:name
+		ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/SciChart_Android_v2.2.1.2391_SDK/Examples/app/src/main/AndroidManifest.xml:60:13-46
+activity#com.scichart.examples.ShowCodeActivity
+ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/SciChart_Android_v2.2.1.2391_SDK/Examples/app/src/main/AndroidManifest.xml:63:9-65:54
+	android:theme
+		ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/SciChart_Android_v2.2.1.2391_SDK/Examples/app/src/main/AndroidManifest.xml:65:13-51
+	android:name
+		ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/SciChart_Android_v2.2.1.2391_SDK/Examples/app/src/main/AndroidManifest.xml:64:13-45
+provider#com.scichart.examples.demo.SciChartFilesProvider
+ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/SciChart_Android_v2.2.1.2391_SDK/Examples/app/src/main/AndroidManifest.xml:67:9-75:20
+	android:grantUriPermissions
+		ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/SciChart_Android_v2.2.1.2391_SDK/Examples/app/src/main/AndroidManifest.xml:71:13-47
+	android:authorities
+		ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/SciChart_Android_v2.2.1.2391_SDK/Examples/app/src/main/AndroidManifest.xml:69:13-83
+	android:exported
+		ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/SciChart_Android_v2.2.1.2391_SDK/Examples/app/src/main/AndroidManifest.xml:70:13-37
+	android:name
+		ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/SciChart_Android_v2.2.1.2391_SDK/Examples/app/src/main/AndroidManifest.xml:68:13-55
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/SciChart_Android_v2.2.1.2391_SDK/Examples/app/src/main/AndroidManifest.xml:72:13-74:57
+	android:resource
+		ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/SciChart_Android_v2.2.1.2391_SDK/Examples/app/src/main/AndroidManifest.xml:74:17-55
+	android:name
+		ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/SciChart_Android_v2.2.1.2391_SDK/Examples/app/src/main/AndroidManifest.xml:73:17-67
+uses-sdk
+INJECTED from /Users/catherine.brainwilliam/AndroidOBTExample/SciChart_Android_v2.2.1.2391_SDK/Examples/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/catherine.brainwilliam/AndroidOBTExample/SciChart_Android_v2.2.1.2391_SDK/Examples/app/src/main/AndroidManifest.xml
+INJECTED from /Users/catherine.brainwilliam/AndroidOBTExample/SciChart_Android_v2.2.1.2391_SDK/Examples/app/src/main/AndroidManifest.xml
+MERGED from [com.scichart:charting:release] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/charting-release.aar/d0d34aaf2a4c3c5b092e070f6c99c6f3/AndroidManifest.xml:24:5-26:41
+MERGED from [com.scichart:charting:release] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/charting-release.aar/d0d34aaf2a4c3c5b092e070f6c99c6f3/AndroidManifest.xml:24:5-26:41
+MERGED from [com.scichart:core:release] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/core-release.aar/2c59eda961c94abe362db494c471f3ff/AndroidManifest.xml:25:5-27:41
+MERGED from [com.scichart:core:release] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/core-release.aar/2c59eda961c94abe362db494c471f3ff/AndroidManifest.xml:25:5-27:41
+MERGED from [com.scichart:drawing:release] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/drawing-release.aar/22a9df4af15a0aab9123a299436aa62e/AndroidManifest.xml:25:5-27:41
+MERGED from [com.scichart:drawing:release] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/drawing-release.aar/22a9df4af15a0aab9123a299436aa62e/AndroidManifest.xml:25:5-27:41
+MERGED from [com.scichart:data:release] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/data-release.aar/f31a39f6c843fabeeecf2b2d55af3c5b/AndroidManifest.xml:25:5-27:41
+MERGED from [com.scichart:data:release] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/data-release.aar/f31a39f6c843fabeeecf2b2d55af3c5b/AndroidManifest.xml:25:5-27:41
+MERGED from [com.scichart:extensions:release] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/extensions-release.aar/94d4ba8d05930c6d42e595a07ab8f51b/AndroidManifest.xml:25:5-27:41
+MERGED from [com.scichart:extensions:release] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/extensions-release.aar/94d4ba8d05930c6d42e595a07ab8f51b/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:design:27.1.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/e0d9b068e9982da57804f427ef069d84/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/e0d9b068e9982da57804f427ef069d84/AndroidManifest.xml:20:5-44
+MERGED from [com.daasuu:EasingInterpolator:1.0.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/EasingInterpolator-1.0.0.aar/7e374fca760ead7db357339f398dc3f1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.daasuu:EasingInterpolator:1.0.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/EasingInterpolator-1.0.0.aar/7e374fca760ead7db357339f398dc3f1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/df1902e82ac8158603bd66d7ac137f3e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/df1902e82ac8158603bd66d7ac137f3e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.0.aar/7f44d3e027f6e89242e47bc2d24beedf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.0.aar/7f44d3e027f6e89242e47bc2d24beedf/AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton:butterknife:8.8.1] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/14c324bc4b7fe7b498a3be211bbf2a30/AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.8.1] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/14c324bc4b7fe7b498a3be211bbf2a30/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-fragment:27.1.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/10cb84a4d58369dc80dd5a6036128c61/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/10cb84a4d58369dc80dd5a6036128c61/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.0.aar/4c0de6aadf33fb8dc7fb1b528c4034cd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.0.aar/4c0de6aadf33fb8dc7fb1b528c4034cd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/d683c32fb305eb6ce28d8e18ac618850/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/d683c32fb305eb6ce28d8e18ac618850/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/4df4a3099799db523b2d531ceb7e1669/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/4df4a3099799db523b2d531ceb7e1669/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/8c488687f2cabee2d6813a93dd4c7935/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/8c488687f2cabee2d6813a93dd4c7935/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/29e1fb7f20f196fb6b310259731a6692/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/29e1fb7f20f196fb6b310259731a6692/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/transition-27.1.0.aar/88d713acb3e422f193dd12dbc1d3d532/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/transition-27.1.0.aar/88d713acb3e422f193dd12dbc1d3d532/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/284db8e8ab395d473b4c88622b800831/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/284db8e8ab395d473b4c88622b800831/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/59a1a64dc003b26ee7f00b03dbb2e3ad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/59a1a64dc003b26ee7f00b03dbb2e3ad/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/5c4012b7c5fab1d1f8e87619caabd3a6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/5c4012b7c5fab1d1f8e87619caabd3a6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/19b9b151ad69b3056dd655631768fca7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/19b9b151ad69b3056dd655631768fca7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/1e93c7312dbeae2140507a4267b1b694/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/1e93c7312dbeae2140507a4267b1b694/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/e865e5de6edf14d752ce8a208cbbbc9a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/e865e5de6edf14d752ce8a208cbbbc9a/AndroidManifest.xml:20:5-44
+INJECTED from /Users/catherine.brainwilliam/AndroidOBTExample/SciChart_Android_v2.2.1.2391_SDK/Examples/app/src/main/AndroidManifest.xml
+INJECTED from /Users/catherine.brainwilliam/AndroidOBTExample/SciChart_Android_v2.2.1.2391_SDK/Examples/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/catherine.brainwilliam/AndroidOBTExample/SciChart_Android_v2.2.1.2391_SDK/Examples/app/src/main/AndroidManifest.xml
+		ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/SciChart_Android_v2.2.1.2391_SDK/Examples/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/catherine.brainwilliam/AndroidOBTExample/SciChart_Android_v2.2.1.2391_SDK/Examples/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/catherine.brainwilliam/AndroidOBTExample/SciChart_Android_v2.2.1.2391_SDK/Examples/app/src/main/AndroidManifest.xml
+		ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/SciChart_Android_v2.2.1.2391_SDK/Examples/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/catherine.brainwilliam/AndroidOBTExample/SciChart_Android_v2.2.1.2391_SDK/Examples/app/src/main/AndroidManifest.xml

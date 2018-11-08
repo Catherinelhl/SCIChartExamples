@@ -1,0 +1,9 @@
+<LicenseContract>
+    <Customer>Catherineliu@orangeblock.tech</Customer>
+    <OrderId>Trial</OrderId>
+    <LicenseCount>1</LicenseCount>
+    <IsTrialLicense>true</IsTrialLicense>
+    <SupportExpires>12/08/2018 00:00:00</SupportExpires>
+    <ProductCode>SC-ANDROID-2D-ENTERPRISE-SRC</ProductCode>
+    <KeyCode>8575f41bd572f461e6dc983c6ff8cb124299bec50a2e4f04577d5e18e61933036ab7ebdb60da829b4edbda3d48e3bd0b25fdec4c81d1b3ca403dfbb92ae90c6dcc2004d831ce747e372014ec7462737e6347789bd48db9a1a3a5eb05e0a694ac1e80b45a3ce8deae7a73b5fa4ca2c48a4aef182b592eebbab04e7f232aaa4e2a13c414e42e6fca5e9523134cc8d92a215bac736b38fd6c020731f29633611650f7dbb59deb71c63ecb6081a9be39052c401e0f4281d58b</KeyCode>
+</LicenseContract>

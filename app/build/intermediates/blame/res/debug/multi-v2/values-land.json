@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/catherine.brainwilliam/AndroidOBTExample/SciChart_Android_v2.2.1.2391_SDK/Examples/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+            "map": [
+                {
+                    "source": "/Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/df1902e82ac8158603bd66d7ac137f3e/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,125,189,260",
+                        "endColumns": "69,63,70,67",
+                        "endOffsets": "120,184,255,323"
+                    }
+                },
+                {
+                    "source": "/Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/e0d9b068e9982da57804f427ef069d84/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "232"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "328",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "505"
+                    }
+                }
+            ]
+        }
+    ]
+}
